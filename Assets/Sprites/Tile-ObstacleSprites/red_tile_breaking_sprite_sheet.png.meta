@@ -1,0 +1,6520 @@
+fileFormatVersion: 2
+guid: d0f110806dae6554c80276b081f290f4
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 0
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: red_tile_breaking_sprite_sheet_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 326
+        width: 88
+        height: 112
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5b3dd91bb794441429f7478bf5fe2b58
+      internalID: -1266272817
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: red_tile_breaking_sprite_sheet_1
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 177
+        width: 18
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0197680a0f7c1c64dad5827e694d6af6
+      internalID: -1016074561
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: red_tile_breaking_sprite_sheet_2
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 232
+        height: 1024
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b1278e9cbdf408d4da8bea2b020cca04
+      internalID: 662687589
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: red_tile_breaking_sprite_sheet_3
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 510
+        width: 56
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b6e95ea27fe885e4288d246c40926250
+      internalID: 1639829366
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: red_tile_breaking_sprite_sheet_4
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 320
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e269faec54ec38e45990e0c7f5db2abc
+      internalID: -1645977051
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: red_tile_breaking_sprite_sheet_5
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 53
+        width: 28
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1420e5dfb00337944aff50a14ed42d06
+      internalID: -1552701370
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: red_tile_breaking_sprite_sheet_6
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 241
+        width: 16
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 88d0badba60752e468710d8b7f155346
+      internalID: 2003697563
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: red_tile_breaking_sprite_sheet_7
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 137
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 04b23f81b28fe054698634c3aab88634
+      internalID: -557329137
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: red_tile_breaking_sprite_sheet_8
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 497
+        width: 86
+        height: 102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1c5e15a156d4fff49aad8939ff6eae5d
+      internalID: -454774702
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: red_tile_breaking_sprite_sheet_9
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 104
+        width: 23
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e25ad7273f5ae0243810949e30850a9f
+      internalID: 417985785
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: red_tile_breaking_sprite_sheet_10
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 192
+        width: 6
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b340f07f23de6304aa22ad54407fb68b
+      internalID: -2005593501
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: red_tile_breaking_sprite_sheet_11
+      rect:
+        serializedVersion: 2
+        x: 79
+        y: 220
+        width: 57
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 37bb1d11d0594cf449e7b7fddc9c3ddc
+      internalID: -501416061
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: red_tile_breaking_sprite_sheet_12
+      rect:
+        serializedVersion: 2
+        x: 79
+        y: 350
+        width: 81
+        height: 142
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9a05a61cb7373424291ac151279c4cf7
+      internalID: -1413537466
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: red_tile_breaking_sprite_sheet_13
+      rect:
+        serializedVersion: 2
+        x: 79
+        y: 80
+        width: 9
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 17bf0857f51f4ef4ab832ad1f965399d
+      internalID: 1854315487
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: red_tile_breaking_sprite_sheet_14
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 127
+        width: 8
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 20cd2758643484944ab05ecd92f4a140
+      internalID: 333829697
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: red_tile_breaking_sprite_sheet_15
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 48
+        width: 8
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 40f7e6468848f8e41af1ea13ea63a584
+      internalID: -1021085081
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: red_tile_breaking_sprite_sheet_16
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 0
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bf4b3984c5c1a00459ec787ec86f8f1f
+      internalID: 1593653606
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: red_tile_breaking_sprite_sheet_17
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 617
+        width: 7
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fdede1ae08424204f8dbbc817f2e873b
+      internalID: 884462127
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: red_tile_breaking_sprite_sheet_18
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 9
+        width: 7
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 097f2fa27f3d22b4aae520e3d4580caf
+      internalID: -27629616
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: red_tile_breaking_sprite_sheet_19
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 311
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 878663339c80e38489395eaa74bd1df3
+      internalID: 642401286
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: red_tile_breaking_sprite_sheet_20
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 303
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 43a2d908714eb104fabf6ccfaf0e33bc
+      internalID: -833872350
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: red_tile_breaking_sprite_sheet_21
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 633
+        width: 6
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1ec08ac27f3dd5b43b988ccaf6ffc483
+      internalID: 973593986
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: red_tile_breaking_sprite_sheet_22
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 287
+        width: 5
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 70b9c54090ac8064da07fc08d3a41c39
+      internalID: -521659162
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: red_tile_breaking_sprite_sheet_23
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 977
+        width: 6
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3f74c424cb625ea4f9c43e8277c9c9ad
+      internalID: -531078201
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: red_tile_breaking_sprite_sheet_24
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 984
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9691356941ca3034e894d69ac4dd34a4
+      internalID: 421009451
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: red_tile_breaking_sprite_sheet_25
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 663
+        width: 6
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6446055eac12c264186dffebf169a674
+      internalID: 1286057454
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: red_tile_breaking_sprite_sheet_26
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 992
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3aa0505fac5343e42ae4ceb816ce3101
+      internalID: -839365394
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: red_tile_breaking_sprite_sheet_27
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 657
+        width: 6
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 09c7ced113558284896230ae587f8f1c
+      internalID: 793148020
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: red_tile_breaking_sprite_sheet_28
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 161
+        width: 6
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 876b09dcf27dac749abedf9c34f24326
+      internalID: 1140374073
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: red_tile_breaking_sprite_sheet_29
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 649
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ec05acbe5b07eda4495b8bf829e45ca8
+      internalID: -959712699
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: red_tile_breaking_sprite_sheet_30
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 182
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b4d6ac7275f7d2e4584f619af1bf2bd3
+      internalID: -710668538
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: red_tile_breaking_sprite_sheet_31
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 317
+        width: 6
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 52510cd6b17fd744d8f537826549236b
+      internalID: 940345701
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: red_tile_breaking_sprite_sheet_32
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 999
+        width: 5
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4ec54dd564ed2514ab064b1b18484b27
+      internalID: -2041511855
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: red_tile_breaking_sprite_sheet_33
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 153
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ce6808531e014ed4995922ba346574d8
+      internalID: -1278092125
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: red_tile_breaking_sprite_sheet_34
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 205
+        width: 4
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c318f3f7419c0484ea85179245c7a74c
+      internalID: -1730121526
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: red_tile_breaking_sprite_sheet_35
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 280
+        width: 4
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b498212b4202fe44aa9acb6b59a45884
+      internalID: 1389037716
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: red_tile_breaking_sprite_sheet_36
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 199
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cb48a76f1bdbfdb41b343f9836ce27bb
+      internalID: -1327199893
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: red_tile_breaking_sprite_sheet_37
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 297
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5b0d9d197d773054787c33189fa379ba
+      internalID: 1627029228
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: red_tile_breaking_sprite_sheet_38
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 215
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ad3cf6054df45b248bafafb3fa420fb1
+      internalID: 1319914897
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: red_tile_breaking_sprite_sheet_39
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 1009
+        width: 4
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8c926e8679b8c1447895f659842d7ac0
+      internalID: -1052916116
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: red_tile_breaking_sprite_sheet_40
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 191
+        width: 4
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 84bf9c2e5eae0c44db286d25c0276bf0
+      internalID: -130322488
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: red_tile_breaking_sprite_sheet_41
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 609
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 728cf980ebe585846abbe3f393987bc9
+      internalID: 1032748354
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: red_tile_breaking_sprite_sheet_42
+      rect:
+        serializedVersion: 2
+        x: 110
+        y: 63
+        width: 26
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e98c64930abbfec458310ae9a736b221
+      internalID: -1184965867
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: red_tile_breaking_sprite_sheet_43
+      rect:
+        serializedVersion: 2
+        x: 118
+        y: 155
+        width: 34
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 96bf640c4d8026d4abfd55a8820fbd81
+      internalID: -1972356509
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: red_tile_breaking_sprite_sheet_44
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 180
+        width: 5
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 509a72230965a764eb2f8f8629ab02aa
+      internalID: -1944017451
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: red_tile_breaking_sprite_sheet_45
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 62
+        width: 4
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 268ecd7f1f4ec5340b5be75575706fd5
+      internalID: -128774556
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: red_tile_breaking_sprite_sheet_46
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 256
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6f2f5f5cbcc3dd741b7ef0c051777a19
+      internalID: 743868181
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: red_tile_breaking_sprite_sheet_47
+      rect:
+        serializedVersion: 2
+        x: 143
+        y: 109
+        width: 12
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b1633b0f7e359d643ba141d0ec29799c
+      internalID: -988801247
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: red_tile_breaking_sprite_sheet_48
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 204
+        width: 10
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 089004b7dfa5e0742acbe2343952300f
+      internalID: 1404079404
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: red_tile_breaking_sprite_sheet_49
+      rect:
+        serializedVersion: 2
+        x: 153
+        y: 97
+        width: 7
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c17af3aa86fc7bd4595262423404d693
+      internalID: -2093408274
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: red_tile_breaking_sprite_sheet_50
+      rect:
+        serializedVersion: 2
+        x: 156
+        y: 113
+        width: 4
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 71da4f6fdaeb9a2498ecc5fcdbf339b3
+      internalID: 1207054886
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: red_tile_breaking_sprite_sheet_51
+      rect:
+        serializedVersion: 2
+        x: 212
+        y: 444
+        width: 300
+        height: 579
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 41cd87327edf0274e9d98cffc9595a22
+      internalID: 1631846873
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: red_tile_breaking_sprite_sheet_52
+      rect:
+        serializedVersion: 2
+        x: 236
+        y: 148
+        width: 166
+        height: 295
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 64af18f6159a4664eb20fad4a084e207
+      internalID: 1405542147
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: red_tile_breaking_sprite_sheet_53
+      rect:
+        serializedVersion: 2
+        x: 244
+        y: 73
+        width: 28
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4f964c6f37bd43542a2c4659367094eb
+      internalID: 1800710550
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: red_tile_breaking_sprite_sheet_54
+      rect:
+        serializedVersion: 2
+        x: 244
+        y: 1
+        width: 84
+        height: 103
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7abac0e3ddafb3d47bcadb92e4303a21
+      internalID: -648648629
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: red_tile_breaking_sprite_sheet_55
+      rect:
+        serializedVersion: 2
+        x: 250
+        y: 222
+        width: 14
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3691cf76fd8f7504e9b6e7783cdbbe94
+      internalID: 457728109
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: red_tile_breaking_sprite_sheet_56
+      rect:
+        serializedVersion: 2
+        x: 253
+        y: 492
+        width: 85
+        height: 103
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3e97d92439162044facf5696af0371be
+      internalID: 378352469
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: red_tile_breaking_sprite_sheet_57
+      rect:
+        serializedVersion: 2
+        x: 255
+        y: 137
+        width: 25
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 59d4b01c57b26834a9d775b520d24ba6
+      internalID: 547912244
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: red_tile_breaking_sprite_sheet_58
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 270
+        width: 23
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9e4975186bf7f6c48899df4e0607683a
+      internalID: 1357112483
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: red_tile_breaking_sprite_sheet_59
+      rect:
+        serializedVersion: 2
+        x: 302
+        y: 192
+        width: 27
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8028a8bfa2a28364990cbb65c1fd2f4c
+      internalID: -75212933
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: red_tile_breaking_sprite_sheet_60
+      rect:
+        serializedVersion: 2
+        x: 319
+        y: 114
+        width: 33
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4e2b150b72bf9d84195ea64578211448
+      internalID: 1155963849
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: red_tile_breaking_sprite_sheet_61
+      rect:
+        serializedVersion: 2
+        x: 344
+        y: 1
+        width: 37
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 975d53ca859ae07438d49ce04692f653
+      internalID: -616820874
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: red_tile_breaking_sprite_sheet_62
+      rect:
+        serializedVersion: 2
+        x: 351
+        y: 57
+        width: 44
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1ac1dda26210ec04896870e98ac1e8dd
+      internalID: 1687957507
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: red_tile_breaking_sprite_sheet_63
+      rect:
+        serializedVersion: 2
+        x: 356
+        y: 248
+        width: 14
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e88a1f594b230ab4b8d21772aaa9006a
+      internalID: 181143287
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: red_tile_breaking_sprite_sheet_64
+      rect:
+        serializedVersion: 2
+        x: 368
+        y: 337
+        width: 81
+        height: 140
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a6e807a92309a8d41aa956ef6649deb5
+      internalID: -1061228005
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: red_tile_breaking_sprite_sheet_65
+      rect:
+        serializedVersion: 2
+        x: 369
+        y: 664
+        width: 11
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1f4d9870918689b44bdc3005cb18346d
+      internalID: -444909348
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: red_tile_breaking_sprite_sheet_66
+      rect:
+        serializedVersion: 2
+        x: 380
+        y: 664
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7aa0c58333d0dd243b88d41e070a2567
+      internalID: 1864931119
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: red_tile_breaking_sprite_sheet_67
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 194
+        width: 4
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 972d191f16b321b4380b37167bcfec13
+      internalID: -168213188
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: red_tile_breaking_sprite_sheet_68
+      rect:
+        serializedVersion: 2
+        x: 388
+        y: 177
+        width: 36
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 787ebfd7b7b573342ad1755b14f8fd8d
+      internalID: 1070014299
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: red_tile_breaking_sprite_sheet_69
+      rect:
+        serializedVersion: 2
+        x: 391
+        y: 518
+        width: 105
+        height: 85
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 48e19bd76b30b1c4bbfbf2e7a552f36e
+      internalID: -1779750409
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: red_tile_breaking_sprite_sheet_70
+      rect:
+        serializedVersion: 2
+        x: 393
+        y: 2
+        width: 77
+        height: 142
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5532815627ec42743b7abdc9d83259dd
+      internalID: -29229719
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: red_tile_breaking_sprite_sheet_71
+      rect:
+        serializedVersion: 2
+        x: 397
+        y: 136
+        width: 27
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 02c4b98c714e542419fe3d02728fd03b
+      internalID: 2126636725
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: red_tile_breaking_sprite_sheet_72
+      rect:
+        serializedVersion: 2
+        x: 401
+        y: 221
+        width: 23
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9444fb96557efe040819fd9708ddc870
+      internalID: -550528416
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: red_tile_breaking_sprite_sheet_73
+      rect:
+        serializedVersion: 2
+        x: 413
+        y: 46
+        width: 19
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9f273b9100afda24db06474deb6660e7
+      internalID: -684628334
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: red_tile_breaking_sprite_sheet_74
+      rect:
+        serializedVersion: 2
+        x: 420
+        y: 281
+        width: 95
+        height: 231
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a2c502f6239781a4bad98b5e0347231b
+      internalID: 1926446991
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: red_tile_breaking_sprite_sheet_75
+      rect:
+        serializedVersion: 2
+        x: 440
+        y: 178
+        width: 43
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fe98895fb629bcb42a11d23b413e81dd
+      internalID: 652801814
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: red_tile_breaking_sprite_sheet_76
+      rect:
+        serializedVersion: 2
+        x: 447
+        y: 227
+        width: 36
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 46fba04b33b0e07419f916728a1aa27a
+      internalID: 971015498
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: red_tile_breaking_sprite_sheet_77
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 128
+        width: 8
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3f067af028c01aa49b6fec71976f8f78
+      internalID: -1650431951
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: red_tile_breaking_sprite_sheet_78
+      rect:
+        serializedVersion: 2
+        x: 464
+        y: 49
+        width: 32
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 337879dab6f4d524e824c7dbf2eede61
+      internalID: -7070219
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: red_tile_breaking_sprite_sheet_79
+      rect:
+        serializedVersion: 2
+        x: 473
+        y: 176
+        width: 7
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 27ede569453c70246993fbf1ef8c79e4
+      internalID: 1052523182
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: red_tile_breaking_sprite_sheet_80
+      rect:
+        serializedVersion: 2
+        x: 476
+        y: 0
+        width: 388
+        height: 1024
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 37ac86991f2948c498ead882eedd822a
+      internalID: 561688277
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: red_tile_breaking_sprite_sheet_81
+      rect:
+        serializedVersion: 2
+        x: 505
+        y: 261
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aacdde7e8768ff84ab75e6624b32561d
+      internalID: -1927124164
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: red_tile_breaking_sprite_sheet_82
+      rect:
+        serializedVersion: 2
+        x: 509
+        y: 136
+        width: 14
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fa14caa49d0c7a14280142130aed08ef
+      internalID: -1782989168
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: red_tile_breaking_sprite_sheet_83
+      rect:
+        serializedVersion: 2
+        x: 519
+        y: 209
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2eba781818cbbcb4fbab51887d319fb9
+      internalID: 1038912855
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: red_tile_breaking_sprite_sheet_84
+      rect:
+        serializedVersion: 2
+        x: 612
+        y: 668
+        width: 172
+        height: 186
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f26dc5b55bf8c4f468361c28b02adf9d
+      internalID: 286249459
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: red_tile_breaking_sprite_sheet_85
+      rect:
+        serializedVersion: 2
+        x: 620
+        y: 408
+        width: 47
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6870f9747ea662049ab841ffcbad3cb9
+      internalID: -1073308752
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: red_tile_breaking_sprite_sheet_86
+      rect:
+        serializedVersion: 2
+        x: 635
+        y: 536
+        width: 76
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6f560643119c5964ca26576244314931
+      internalID: -682992249
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: red_tile_breaking_sprite_sheet_87
+      rect:
+        serializedVersion: 2
+        x: 658
+        y: 345
+        width: 50
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4948c899dbf70644c941a11daf0e4948
+      internalID: -481719073
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: red_tile_breaking_sprite_sheet_88
+      rect:
+        serializedVersion: 2
+        x: 701
+        y: 472
+        width: 35
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6017a51408aa8d04bbb8eaf10f8d63ab
+      internalID: 1599272217
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: red_tile_breaking_sprite_sheet_89
+      rect:
+        serializedVersion: 2
+        x: 744
+        y: 328
+        width: 65
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2eb47e2f8db8b7b49ad4970bc3f18e1d
+      internalID: 616442059
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: red_tile_breaking_sprite_sheet_90
+      rect:
+        serializedVersion: 2
+        x: 765
+        y: 671
+        width: 117
+        height: 268
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6b32042945a376741ae2e87c515f29eb
+      internalID: -902479246
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: red_tile_breaking_sprite_sheet_91
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 548
+        width: 38
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0280f2912be9fbf48a9358aeb09d47fc
+      internalID: -861884335
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: red_tile_breaking_sprite_sheet_92
+      rect:
+        serializedVersion: 2
+        x: 811
+        y: 499
+        width: 69
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fdc030c49acd211499636b0fc6d15d21
+      internalID: -2083061693
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: red_tile_breaking_sprite_sheet_93
+      rect:
+        serializedVersion: 2
+        x: 821
+        y: 393
+        width: 50
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ceb7a07299c7f2f408c58e2549c8f013
+      internalID: -1670189127
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: red_tile_breaking_sprite_sheet_94
+      rect:
+        serializedVersion: 2
+        x: 866
+        y: 0
+        width: 134
+        height: 1024
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fdc658936b5968848a70febbd0164565
+      internalID: 1652346360
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: red_tile_breaking_sprite_sheet_95
+      rect:
+        serializedVersion: 2
+        x: 959
+        y: 734
+        width: 161
+        height: 172
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2707ef4fb359bd54ca9b874cd1a0096e
+      internalID: 954328896
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: red_tile_breaking_sprite_sheet_96
+      rect:
+        serializedVersion: 2
+        x: 962
+        y: 479
+        width: 49
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 435a7e0598454264987cb53db3e79e27
+      internalID: 310308475
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: red_tile_breaking_sprite_sheet_97
+      rect:
+        serializedVersion: 2
+        x: 964
+        y: 911
+        width: 89
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ae0f9a609867e7b41b4df4ce4ea3e171
+      internalID: 1781610530
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: red_tile_breaking_sprite_sheet_98
+      rect:
+        serializedVersion: 2
+        x: 978
+        y: 400
+        width: 14
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ce3969ecfa3c322448f26717325a850a
+      internalID: 185284148
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: red_tile_breaking_sprite_sheet_99
+      rect:
+        serializedVersion: 2
+        x: 988
+        y: 0
+        width: 156
+        height: 767
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4447efd1e9656474cb493cbfa76652b4
+      internalID: -1140970308
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: red_tile_breaking_sprite_sheet_100
+      rect:
+        serializedVersion: 2
+        x: 990
+        y: 561
+        width: 53
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0021c510f49bd5b488442f8d6854d26e
+      internalID: -1823488119
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: red_tile_breaking_sprite_sheet_101
+      rect:
+        serializedVersion: 2
+        x: 993
+        y: 92
+        width: 7
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2c14e378b99420245a53506248656bad
+      internalID: 755521740
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: red_tile_breaking_sprite_sheet_102
+      rect:
+        serializedVersion: 2
+        x: 993
+        y: 449
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6f919f474896ba04aba1ced536f7acb4
+      internalID: 974023435
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: red_tile_breaking_sprite_sheet_103
+      rect:
+        serializedVersion: 2
+        x: 993
+        y: 56
+        width: 7
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 327483ef682c65b46a9184f91ad5ccd4
+      internalID: 1031386830
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: red_tile_breaking_sprite_sheet_104
+      rect:
+        serializedVersion: 2
+        x: 993
+        y: 81
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 493a8677e6c87da48b57f09365b62a01
+      internalID: 663557572
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: red_tile_breaking_sprite_sheet_105
+      rect:
+        serializedVersion: 2
+        x: 993
+        y: 177
+        width: 7
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0e3e02dcde45c9a42b26f9e23e3fe7ef
+      internalID: -1915541444
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: red_tile_breaking_sprite_sheet_106
+      rect:
+        serializedVersion: 2
+        x: 993
+        y: 40
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c205350327e648c43a4bf2d129c6cd8a
+      internalID: -1341741757
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: red_tile_breaking_sprite_sheet_107
+      rect:
+        serializedVersion: 2
+        x: 993
+        y: 249
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1f2359e8b622d734695999675ca4c87a
+      internalID: 2113668717
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: red_tile_breaking_sprite_sheet_108
+      rect:
+        serializedVersion: 2
+        x: 993
+        y: 104
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6e3ed430490aea248b191e4b0e951502
+      internalID: 1537478178
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: red_tile_breaking_sprite_sheet_109
+      rect:
+        serializedVersion: 2
+        x: 993
+        y: 225
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 484edc0635e594142ab707f561003030
+      internalID: -1282541485
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: red_tile_breaking_sprite_sheet_110
+      rect:
+        serializedVersion: 2
+        x: 994
+        y: 73
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f6ec10e9f80d7ba418873b0abcadace4
+      internalID: 834879570
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: red_tile_breaking_sprite_sheet_111
+      rect:
+        serializedVersion: 2
+        x: 994
+        y: 233
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 894dd9cbfe9f4f74e91cff99ba90e8f5
+      internalID: 2118655962
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: red_tile_breaking_sprite_sheet_112
+      rect:
+        serializedVersion: 2
+        x: 994
+        y: 409
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7197abeef727c9243b3ebc223529f485
+      internalID: -1441517608
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: red_tile_breaking_sprite_sheet_113
+      rect:
+        serializedVersion: 2
+        x: 994
+        y: 337
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7267d02c46872434a9c9c71f781393ed
+      internalID: -663239694
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: red_tile_breaking_sprite_sheet_114
+      rect:
+        serializedVersion: 2
+        x: 994
+        y: 121
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 57e46194934f8cb40a0c50192bf5d19a
+      internalID: 1595374042
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: red_tile_breaking_sprite_sheet_115
+      rect:
+        serializedVersion: 2
+        x: 994
+        y: 353
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7330d6a40284f4940b046051e9e047f7
+      internalID: 571737805
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: red_tile_breaking_sprite_sheet_116
+      rect:
+        serializedVersion: 2
+        x: 994
+        y: 0
+        width: 6
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5296151697044af4b834fdd35369b0e8
+      internalID: 1530403746
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: red_tile_breaking_sprite_sheet_117
+      rect:
+        serializedVersion: 2
+        x: 994
+        y: 200
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 83c1aea1a6ece4d4c8265744c1704443
+      internalID: 575504082
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: red_tile_breaking_sprite_sheet_118
+      rect:
+        serializedVersion: 2
+        x: 994
+        y: 169
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2ce36fd67f7d70442b0ebf22aeb83330
+      internalID: 1829005141
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: red_tile_breaking_sprite_sheet_119
+      rect:
+        serializedVersion: 2
+        x: 994
+        y: 113
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b3a7e428c7cad02468ac0d28d4987b4a
+      internalID: 2026765152
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: red_tile_breaking_sprite_sheet_120
+      rect:
+        serializedVersion: 2
+        x: 994
+        y: 304
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d2350e2b5b03efb4cba97a377a7fafca
+      internalID: -1256213097
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: red_tile_breaking_sprite_sheet_121
+      rect:
+        serializedVersion: 2
+        x: 994
+        y: 390
+        width: 6
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dcaffd3cb8431294a87d29cd35e16805
+      internalID: -627342109
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: red_tile_breaking_sprite_sheet_122
+      rect:
+        serializedVersion: 2
+        x: 995
+        y: 273
+        width: 5
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1611cb5179bf48e4db818ba1dbe722f1
+      internalID: -1924558594
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: red_tile_breaking_sprite_sheet_123
+      rect:
+        serializedVersion: 2
+        x: 995
+        y: 357
+        width: 29
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 61971e86beacd9344a8e090b6d101d1c
+      internalID: -41591289
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: red_tile_breaking_sprite_sheet_124
+      rect:
+        serializedVersion: 2
+        x: 995
+        y: 401
+        width: 5
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5985efd4832a1274680744d5a01f4873
+      internalID: -170060675
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: red_tile_breaking_sprite_sheet_125
+      rect:
+        serializedVersion: 2
+        x: 995
+        y: 907
+        width: 5
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e547edb39fca98942a7515bad4331dc1
+      internalID: 1950458896
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: red_tile_breaking_sprite_sheet_126
+      rect:
+        serializedVersion: 2
+        x: 995
+        y: 313
+        width: 5
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c6db81fe4deba3446b9e97b0fbe164cc
+      internalID: -1470129767
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: red_tile_breaking_sprite_sheet_127
+      rect:
+        serializedVersion: 2
+        x: 995
+        y: 137
+        width: 5
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7bb37763080f65045a51d48e801af620
+      internalID: 264532202
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: red_tile_breaking_sprite_sheet_128
+      rect:
+        serializedVersion: 2
+        x: 995
+        y: 420
+        width: 5
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4d7c739ce53a1ad4d922d88431a5ebcb
+      internalID: 482430096
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: red_tile_breaking_sprite_sheet_129
+      rect:
+        serializedVersion: 2
+        x: 995
+        y: 427
+        width: 5
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d2714ee4fe47b7344a38efc7b07f3747
+      internalID: -1846244151
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: red_tile_breaking_sprite_sheet_130
+      rect:
+        serializedVersion: 2
+        x: 995
+        y: 441
+        width: 5
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c50ceea40fa1351428f867be475d14a0
+      internalID: 1964135714
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: red_tile_breaking_sprite_sheet_131
+      rect:
+        serializedVersion: 2
+        x: 995
+        y: 153
+        width: 5
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c24ca744f018c234f8fa051157458a6c
+      internalID: 525999821
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: red_tile_breaking_sprite_sheet_132
+      rect:
+        serializedVersion: 2
+        x: 995
+        y: 24
+        width: 5
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a0c206c7eaae7c940a75128b289eed4b
+      internalID: 1710339694
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: red_tile_breaking_sprite_sheet_133
+      rect:
+        serializedVersion: 2
+        x: 995
+        y: 209
+        width: 5
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ee135b9b5855eb641a1615bcb948c78b
+      internalID: -359487291
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: red_tile_breaking_sprite_sheet_134
+      rect:
+        serializedVersion: 2
+        x: 995
+        y: 49
+        width: 5
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f8b94939d422eb84d88a3a79af7aa10c
+      internalID: 2104083461
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: red_tile_breaking_sprite_sheet_135
+      rect:
+        serializedVersion: 2
+        x: 995
+        y: 161
+        width: 5
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7a99f7c2d55836f4cb83ea16a4e7dc7c
+      internalID: -1761922336
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: red_tile_breaking_sprite_sheet_136
+      rect:
+        serializedVersion: 2
+        x: 996
+        y: 531
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7e3eed013279eb347bc709b2c7ea1bc4
+      internalID: -1313627457
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: red_tile_breaking_sprite_sheet_137
+      rect:
+        serializedVersion: 2
+        x: 996
+        y: 36
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 523611eed090e984fb7619b010fdcbe1
+      internalID: -1996131738
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: red_tile_breaking_sprite_sheet_138
+      rect:
+        serializedVersion: 2
+        x: 996
+        y: 321
+        width: 4
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ec9da2fd7514c6b41bd275337038d1e9
+      internalID: 97875435
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: red_tile_breaking_sprite_sheet_139
+      rect:
+        serializedVersion: 2
+        x: 996
+        y: 657
+        width: 4
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 24dab6b9824f5d84ca5bf54c32dbd694
+      internalID: 1092906253
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: red_tile_breaking_sprite_sheet_140
+      rect:
+        serializedVersion: 2
+        x: 996
+        y: 633
+        width: 4
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ee7d3377958380641a7f897a0584646e
+      internalID: -937487894
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: red_tile_breaking_sprite_sheet_141
+      rect:
+        serializedVersion: 2
+        x: 996
+        y: 473
+        width: 4
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d3877d5216cb891458799bb3e90e275a
+      internalID: -485024409
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: red_tile_breaking_sprite_sheet_142
+      rect:
+        serializedVersion: 2
+        x: 996
+        y: 377
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fdf91264893cd6b4b8f8497b1d53c1d6
+      internalID: 1680740901
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: red_tile_breaking_sprite_sheet_143
+      rect:
+        serializedVersion: 2
+        x: 996
+        y: 467
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0e991ead6fa107c4495e41d27cd05d86
+      internalID: -565620923
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: red_tile_breaking_sprite_sheet_144
+      rect:
+        serializedVersion: 2
+        x: 996
+        y: 457
+        width: 4
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: da9c2d3384d5f2f45a83623499650e04
+      internalID: 938924433
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: red_tile_breaking_sprite_sheet_145
+      rect:
+        serializedVersion: 2
+        x: 996
+        y: 673
+        width: 4
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 48aa953f22720ab43b2f05ee2b48c687
+      internalID: -2003997573
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: red_tile_breaking_sprite_sheet_146
+      rect:
+        serializedVersion: 2
+        x: 996
+        y: 545
+        width: 4
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b5ea0d5195bd1fc48a6ad7bb4df4920c
+      internalID: 1696103226
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: red_tile_breaking_sprite_sheet_147
+      rect:
+        serializedVersion: 2
+        x: 996
+        y: 699
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 38f942d05a6fcb24f8a63e1d68a32c30
+      internalID: -865032937
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: red_tile_breaking_sprite_sheet_148
+      rect:
+        serializedVersion: 2
+        x: 996
+        y: 537
+        width: 4
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9c3baf17441e2d6459eab0c9e8762d02
+      internalID: -562373754
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: red_tile_breaking_sprite_sheet_149
+      rect:
+        serializedVersion: 2
+        x: 996
+        y: 129
+        width: 4
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0d53d0433072f224a93260c34903f75e
+      internalID: 1164832157
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: red_tile_breaking_sprite_sheet_150
+      rect:
+        serializedVersion: 2
+        x: 996
+        y: 620
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2bb08e052f0d1144db4d0fe87416027e
+      internalID: 1066402086
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: red_tile_breaking_sprite_sheet_151
+      rect:
+        serializedVersion: 2
+        x: 996
+        y: 281
+        width: 4
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 89c0bbcfe0883f14b9db432c424cd42d
+      internalID: -1256940603
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: red_tile_breaking_sprite_sheet_152
+      rect:
+        serializedVersion: 2
+        x: 996
+        y: 297
+        width: 4
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bf3e8af5d8654d8458bdb144997cef00
+      internalID: 1869279578
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: red_tile_breaking_sprite_sheet_153
+      rect:
+        serializedVersion: 2
+        x: 996
+        y: 244
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e39b9e41eb25f82458672ca09fe99d7f
+      internalID: 1037115488
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: red_tile_breaking_sprite_sheet_154
+      rect:
+        serializedVersion: 2
+        x: 996
+        y: 145
+        width: 4
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 898d2150c9750764c8f3d5af98da18c2
+      internalID: -2038877711
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: red_tile_breaking_sprite_sheet_155
+      rect:
+        serializedVersion: 2
+        x: 996
+        y: 292
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e46c159ef17a9e74b82e9279f8113efa
+      internalID: -817484343
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: red_tile_breaking_sprite_sheet_156
+      rect:
+        serializedVersion: 2
+        x: 1012
+        y: 980
+        width: 36
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e093fc7f81dd81d4984d2255ddfa3ad6
+      internalID: 883495054
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: red_tile_breaking_sprite_sheet_157
+      rect:
+        serializedVersion: 2
+        x: 1028
+        y: 425
+        width: 31
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a3411fc41733b7940852fcff0d6b6c06
+      internalID: -134627285
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: red_tile_breaking_sprite_sheet_158
+      rect:
+        serializedVersion: 2
+        x: 1039
+        y: 64
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: efea75e52de45984492fe15441abe5b2
+      internalID: 360982372
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: red_tile_breaking_sprite_sheet_159
+      rect:
+        serializedVersion: 2
+        x: 1040
+        y: 360
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 598fefb89042cdc44b12bb0cde559d0e
+      internalID: 1966157809
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: red_tile_breaking_sprite_sheet_160
+      rect:
+        serializedVersion: 2
+        x: 1041
+        y: 152
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8bde47c1791e36946aacbeeb27945ebd
+      internalID: 509858963
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: red_tile_breaking_sprite_sheet_161
+      rect:
+        serializedVersion: 2
+        x: 1041
+        y: 24
+        width: 5
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c86600e2134819643b6777642a9f482a
+      internalID: 1059321488
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: red_tile_breaking_sprite_sheet_162
+      rect:
+        serializedVersion: 2
+        x: 1041
+        y: 0
+        width: 5
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c80b5572eed36fd4fb4da2d6bed06130
+      internalID: -1644186854
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: red_tile_breaking_sprite_sheet_163
+      rect:
+        serializedVersion: 2
+        x: 1041
+        y: 320
+        width: 5
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: de7f51181f9250b45ada734481f69c83
+      internalID: -1733739007
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: red_tile_breaking_sprite_sheet_164
+      rect:
+        serializedVersion: 2
+        x: 1042
+        y: 232
+        width: 4
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7f43b2b3c020e214e81cb2e85f4b73ac
+      internalID: -1944013532
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: red_tile_breaking_sprite_sheet_165
+      rect:
+        serializedVersion: 2
+        x: 1042
+        y: 223
+        width: 5
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fde8b74764941cb4a843f5b0ef44c059
+      internalID: -280004191
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: red_tile_breaking_sprite_sheet_166
+      rect:
+        serializedVersion: 2
+        x: 1042
+        y: 543
+        width: 4
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 22de1168245fadb499a1d78da67d3d56
+      internalID: 1313103079
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: red_tile_breaking_sprite_sheet_167
+      rect:
+        serializedVersion: 2
+        x: 1042
+        y: 16
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8c65ea1c17b45f348a0902218e68bd31
+      internalID: 1461351329
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: red_tile_breaking_sprite_sheet_168
+      rect:
+        serializedVersion: 2
+        x: 1042
+        y: 144
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9cfecd13572ed8247a4130beb2529c29
+      internalID: 1546065296
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: red_tile_breaking_sprite_sheet_169
+      rect:
+        serializedVersion: 2
+        x: 1042
+        y: 568
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ff309db0d18f6bc4781faba18833e6df
+      internalID: 1777877
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: red_tile_breaking_sprite_sheet_170
+      rect:
+        serializedVersion: 2
+        x: 1042
+        y: 240
+        width: 5
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ad15ca7a1d7059b4fa2c039813480e0b
+      internalID: 91250201
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: red_tile_breaking_sprite_sheet_171
+      rect:
+        serializedVersion: 2
+        x: 1042
+        y: 480
+        width: 6
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7369d44aeb5ec2f46a9b90d010fb643c
+      internalID: 1583716842
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: red_tile_breaking_sprite_sheet_172
+      rect:
+        serializedVersion: 2
+        x: 1042
+        y: 990
+        width: 4
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f68decf71e9dcef43a5d065230fe2e16
+      internalID: 217687206
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: red_tile_breaking_sprite_sheet_173
+      rect:
+        serializedVersion: 2
+        x: 1042
+        y: 40
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b31d7f02279fc8647b541b10df0cf65f
+      internalID: 1422772731
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: red_tile_breaking_sprite_sheet_174
+      rect:
+        serializedVersion: 2
+        x: 1042
+        y: 496
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2e0b35b38afbadf41b3e4bef6e05f066
+      internalID: -1176484295
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: red_tile_breaking_sprite_sheet_175
+      rect:
+        serializedVersion: 2
+        x: 1042
+        y: 160
+        width: 5
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 77753c1118b38984cb74826d0e58fe6f
+      internalID: -1560517178
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: red_tile_breaking_sprite_sheet_176
+      rect:
+        serializedVersion: 2
+        x: 1042
+        y: 31
+        width: 4
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6cf4671271403b649b38788f993425ac
+      internalID: -1419701035
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: red_tile_breaking_sprite_sheet_177
+      rect:
+        serializedVersion: 2
+        x: 1042
+        y: 504
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1bc3ddf7160f63240a485a699abcd145
+      internalID: -1968408843
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: red_tile_breaking_sprite_sheet_178
+      rect:
+        serializedVersion: 2
+        x: 1042
+        y: 56
+        width: 5
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0ec283345208d17488e6f00c1b109534
+      internalID: -1489965628
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: red_tile_breaking_sprite_sheet_179
+      rect:
+        serializedVersion: 2
+        x: 1042
+        y: 167
+        width: 4
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a03641b7fc0119540b0f410defef0a24
+      internalID: -1215103109
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: red_tile_breaking_sprite_sheet_180
+      rect:
+        serializedVersion: 2
+        x: 1042
+        y: 200
+        width: 4
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 741f15857367e46439baf9cf09c53d46
+      internalID: 662286835
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: red_tile_breaking_sprite_sheet_181
+      rect:
+        serializedVersion: 2
+        x: 1042
+        y: 656
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7dd31bd5cf2e8ac41b12f5f1f74485b6
+      internalID: -1612782163
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: red_tile_breaking_sprite_sheet_182
+      rect:
+        serializedVersion: 2
+        x: 1042
+        y: 512
+        width: 4
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cf57b99a42934a24d9b7db99b625f0f7
+      internalID: -133258310
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: red_tile_breaking_sprite_sheet_183
+      rect:
+        serializedVersion: 2
+        x: 1042
+        y: 175
+        width: 4
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: af7e237375b70704cb85a7d18493a43e
+      internalID: -1066449359
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: red_tile_breaking_sprite_sheet_184
+      rect:
+        serializedVersion: 2
+        x: 1042
+        y: 648
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 96ada1e829464e64580d851e4a200f6c
+      internalID: -1129690718
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: red_tile_breaking_sprite_sheet_185
+      rect:
+        serializedVersion: 2
+        x: 1042
+        y: 192
+        width: 4
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e62bfaee111852d478ec92badccb4260
+      internalID: 44371425
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: red_tile_breaking_sprite_sheet_186
+      rect:
+        serializedVersion: 2
+        x: 1042
+        y: 217
+        width: 4
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a377410fed35ef34db88410f1d57ce18
+      internalID: -299870500
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: red_tile_breaking_sprite_sheet_187
+      rect:
+        serializedVersion: 2
+        x: 1042
+        y: 72
+        width: 4
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9bcf1c64c67773349b958ec3120a6ac1
+      internalID: 506585213
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: red_tile_breaking_sprite_sheet_188
+      rect:
+        serializedVersion: 2
+        x: 1042
+        y: 112
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1254e5f268f51f34aa4a78bd86e68d11
+      internalID: 1705251881
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: red_tile_breaking_sprite_sheet_189
+      rect:
+        serializedVersion: 2
+        x: 1042
+        y: 136
+        width: 5
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e9a2e5c7c2eefdf4dab53e586de13835
+      internalID: -1080661995
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: red_tile_breaking_sprite_sheet_190
+      rect:
+        serializedVersion: 2
+        x: 1042
+        y: 313
+        width: 4
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cbf0c136b6021694889e381025a172ec
+      internalID: 359666885
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: red_tile_breaking_sprite_sheet_191
+      rect:
+        serializedVersion: 2
+        x: 1042
+        y: 104
+        width: 5
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a9af03292057f104596c57faa7fbc143
+      internalID: -895850565
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: red_tile_breaking_sprite_sheet_192
+      rect:
+        serializedVersion: 2
+        x: 1042
+        y: 304
+        width: 6
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d64705d7a96fd4c45a0932e376182080
+      internalID: 2147190861
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: red_tile_breaking_sprite_sheet_193
+      rect:
+        serializedVersion: 2
+        x: 1042
+        y: 94
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6d6b0c94dc1a1f44594f67f71b3c9b9b
+      internalID: -807749429
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: red_tile_breaking_sprite_sheet_194
+      rect:
+        serializedVersion: 2
+        x: 1042
+        y: 976
+        width: 6
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 33a92438d84341b4bbd97d751e52699c
+      internalID: -1549911756
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: red_tile_breaking_sprite_sheet_195
+      rect:
+        serializedVersion: 2
+        x: 1042
+        y: 336
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 14748acfa1a29b749a1c72ceb264dbd5
+      internalID: 1367390705
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: red_tile_breaking_sprite_sheet_196
+      rect:
+        serializedVersion: 2
+        x: 1042
+        y: 534
+        width: 4
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4dc340f3685423c4a9c7723cd0049a0a
+      internalID: -259318579
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: red_tile_breaking_sprite_sheet_197
+      rect:
+        serializedVersion: 2
+        x: 1042
+        y: 88
+        width: 4
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1bb00a1c43386284f8c2ddb796e18a70
+      internalID: 1260676379
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: red_tile_breaking_sprite_sheet_198
+      rect:
+        serializedVersion: 2
+        x: 1042
+        y: 47
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 069d1265a39462744a62f4c0fefbf8ed
+      internalID: -1353502255
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: red_tile_breaking_sprite_sheet_199
+      rect:
+        serializedVersion: 2
+        x: 1042
+        y: 552
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 320d2c4a3b0a475469100a7c574bea08
+      internalID: 780941375
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: red_tile_breaking_sprite_sheet_200
+      rect:
+        serializedVersion: 2
+        x: 1042
+        y: 574
+        width: 4
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bd6f539db1e0e404da6eb6bb09d0c1a9
+      internalID: 401327701
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: red_tile_breaking_sprite_sheet_201
+      rect:
+        serializedVersion: 2
+        x: 1042
+        y: 416
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7ac8d935d10297b4b937cc841a17b147
+      internalID: -1524758896
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: red_tile_breaking_sprite_sheet_202
+      rect:
+        serializedVersion: 2
+        x: 1042
+        y: 352
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2a7f57c4f0e9f29469174feb452ffb1a
+      internalID: 1618097071
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: red_tile_breaking_sprite_sheet_203
+      rect:
+        serializedVersion: 2
+        x: 1042
+        y: 120
+        width: 4
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 75f9b43d02dd72b46b31da10d5812a72
+      internalID: -1579922184
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: red_tile_breaking_sprite_sheet_204
+      rect:
+        serializedVersion: 2
+        x: 1042
+        y: 392
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7d2afe6076f7ee54d8f1a49f77efb478
+      internalID: 2120758570
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: red_tile_breaking_sprite_sheet_205
+      rect:
+        serializedVersion: 2
+        x: 1042
+        y: 257
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6fc3e5be8c3516f48810776a65b4f9aa
+      internalID: -2146260888
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: red_tile_breaking_sprite_sheet_206
+      rect:
+        serializedVersion: 2
+        x: 1042
+        y: 408
+        width: 4
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cabe6f7a78ad2dd439761790f3a927f7
+      internalID: -23989053
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: red_tile_breaking_sprite_sheet_207
+      rect:
+        serializedVersion: 2
+        x: 1042
+        y: 128
+        width: 5
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 76179cbf35c0b1c419f36813654666f3
+      internalID: -918497709
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: red_tile_breaking_sprite_sheet_208
+      rect:
+        serializedVersion: 2
+        x: 1042
+        y: 264
+        width: 4
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0ef093569ac99554bb68ee46c62c20b4
+      internalID: 453591770
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: red_tile_breaking_sprite_sheet_209
+      rect:
+        serializedVersion: 2
+        x: 1042
+        y: 561
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 17e1ad3657b1abd4a9fd895fb841672e
+      internalID: 416844545
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: red_tile_breaking_sprite_sheet_210
+      rect:
+        serializedVersion: 2
+        x: 1042
+        y: 271
+        width: 4
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f86ac00d4d6f0ab4189636acd7c70946
+      internalID: 555511391
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: red_tile_breaking_sprite_sheet_211
+      rect:
+        serializedVersion: 2
+        x: 1042
+        y: 79
+        width: 4
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 14a4f0ec9ce81ad40b7244cf5d069c34
+      internalID: -423853727
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: red_tile_breaking_sprite_sheet_212
+      rect:
+        serializedVersion: 2
+        x: 1042
+        y: 288
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5c802f75a60146c4e9590d8b9aa7efa4
+      internalID: 473899796
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: red_tile_breaking_sprite_sheet_213
+      rect:
+        serializedVersion: 2
+        x: 1042
+        y: 184
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4b0f220b33cae89488a87b6639a20763
+      internalID: 327894228
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: red_tile_breaking_sprite_sheet_214
+      rect:
+        serializedVersion: 2
+        x: 1042
+        y: 640
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b81d07665a75b514cb2a0a65f3cec3b9
+      internalID: 1727298361
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: red_tile_breaking_sprite_sheet_215
+      rect:
+        serializedVersion: 2
+        x: 1042
+        y: 905
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 183bc38a65835014784f0a0893f35712
+      internalID: 1515604097
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: red_tile_breaking_sprite_sheet_216
+      rect:
+        serializedVersion: 2
+        x: 1042
+        y: 280
+        width: 4
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a8bf6daf69b8d9240a30d202c4f644a9
+      internalID: 2029424792
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: red_tile_breaking_sprite_sheet_217
+      rect:
+        serializedVersion: 2
+        x: 1042
+        y: 7
+        width: 4
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8d3f7a909a6682c48b5089c3039dac68
+      internalID: -1221492911
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: red_tile_breaking_sprite_sheet_218
+      rect:
+        serializedVersion: 2
+        x: 1060
+        y: 881
+        width: 177
+        height: 143
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8096c1892658a1845a4bb0aefcda5aa6
+      internalID: -1983133004
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: red_tile_breaking_sprite_sheet_219
+      rect:
+        serializedVersion: 2
+        x: 1060
+        y: 486
+        width: 26
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2bda6706760b3af4892cff0ef00247e4
+      internalID: 304361682
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: red_tile_breaking_sprite_sheet_220
+      rect:
+        serializedVersion: 2
+        x: 1079
+        y: 349
+        width: 17
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3995f52dde015d04dbf75f7e1081b018
+      internalID: 975814050
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: red_tile_breaking_sprite_sheet_221
+      rect:
+        serializedVersion: 2
+        x: 1081
+        y: 344
+        width: 5
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9438f29940054fe4e833964b926b7934
+      internalID: -779664258
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: red_tile_breaking_sprite_sheet_222
+      rect:
+        serializedVersion: 2
+        x: 1081
+        y: 544
+        width: 52
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ac8aaef9707827a4294ba59418716d70
+      internalID: -1859822730
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: red_tile_breaking_sprite_sheet_223
+      rect:
+        serializedVersion: 2
+        x: 1087
+        y: 275
+        width: 6
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f4ca4e158d439474088516b8ee098c35
+      internalID: -2084243075
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: red_tile_breaking_sprite_sheet_224
+      rect:
+        serializedVersion: 2
+        x: 1088
+        y: 42
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3491f4eb75d536849849c98c6e1098af
+      internalID: -771800765
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: red_tile_breaking_sprite_sheet_225
+      rect:
+        serializedVersion: 2
+        x: 1088
+        y: 18
+        width: 8
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c3fbd78e69f9a824799f219c2ce1454b
+      internalID: -1363964477
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: red_tile_breaking_sprite_sheet_226
+      rect:
+        serializedVersion: 2
+        x: 1088
+        y: 900
+        width: 8
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 555f6fc6d7373a54cb2b1b773d22db3a
+      internalID: -1618032173
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: red_tile_breaking_sprite_sheet_227
+      rect:
+        serializedVersion: 2
+        x: 1088
+        y: 80
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 14e2aef6ed6d35e4c9c04b03caac8390
+      internalID: 466204611
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: red_tile_breaking_sprite_sheet_228
+      rect:
+        serializedVersion: 2
+        x: 1088
+        y: 91
+        width: 5
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 61e4a38a43d0fb44a88e632f0f238178
+      internalID: 1025295480
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: red_tile_breaking_sprite_sheet_229
+      rect:
+        serializedVersion: 2
+        x: 1088
+        y: 1
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e0a925c9522f84b4795598334fdeffa4
+      internalID: 1534340116
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: red_tile_breaking_sprite_sheet_230
+      rect:
+        serializedVersion: 2
+        x: 1088
+        y: 235
+        width: 8
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4bc1a4c0788978043a85aa8c40a94f59
+      internalID: 23615504
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: red_tile_breaking_sprite_sheet_231
+      rect:
+        serializedVersion: 2
+        x: 1088
+        y: 212
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c1bc708aa519f094bb559fcdbc10cc4e
+      internalID: 2122101514
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: red_tile_breaking_sprite_sheet_232
+      rect:
+        serializedVersion: 2
+        x: 1088
+        y: 26
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b2084fe8dabb26449adc0ca45bca7982
+      internalID: -2064442846
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: red_tile_breaking_sprite_sheet_233
+      rect:
+        serializedVersion: 2
+        x: 1089
+        y: 8
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f1de5591d9daa5948885a796e649d70f
+      internalID: 1884351176
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: red_tile_breaking_sprite_sheet_234
+      rect:
+        serializedVersion: 2
+        x: 1089
+        y: 947
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e799f36f568f7f94087be18690a50e3a
+      internalID: -1211680398
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: red_tile_breaking_sprite_sheet_235
+      rect:
+        serializedVersion: 2
+        x: 1089
+        y: 963
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0353746c5bf5efa47b7d9ec7e41e5caa
+      internalID: 1024400624
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: red_tile_breaking_sprite_sheet_236
+      rect:
+        serializedVersion: 2
+        x: 1089
+        y: 971
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 590bd21f44a29d64c89fc33e23d98f83
+      internalID: -1991742453
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: red_tile_breaking_sprite_sheet_237
+      rect:
+        serializedVersion: 2
+        x: 1089
+        y: 979
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a10201f078e06b342853835a6ee33b9b
+      internalID: -1896452399
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: red_tile_breaking_sprite_sheet_238
+      rect:
+        serializedVersion: 2
+        x: 1089
+        y: 955
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d8844e75ad91da846bf8ec06c4668197
+      internalID: -972684127
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: red_tile_breaking_sprite_sheet_239
+      rect:
+        serializedVersion: 2
+        x: 1089
+        y: 299
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f254af8c4407d7f45a2f10fcd1fc0674
+      internalID: 1239379419
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: red_tile_breaking_sprite_sheet_240
+      rect:
+        serializedVersion: 2
+        x: 1089
+        y: 267
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d610c26fbed570c43a2f66e1d21ba139
+      internalID: 294728360
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: red_tile_breaking_sprite_sheet_241
+      rect:
+        serializedVersion: 2
+        x: 1089
+        y: 411
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aa92b132c74a5ce4dbdc45363b5c51ca
+      internalID: 599399308
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: red_tile_breaking_sprite_sheet_242
+      rect:
+        serializedVersion: 2
+        x: 1089
+        y: 331
+        width: 7
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d8ab929d8bc4df74fb9f46d3a1c6635e
+      internalID: -1104803488
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: red_tile_breaking_sprite_sheet_243
+      rect:
+        serializedVersion: 2
+        x: 1089
+        y: 107
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2c037c9c00887314e847ae9c3d349a9d
+      internalID: -687216577
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: red_tile_breaking_sprite_sheet_244
+      rect:
+        serializedVersion: 2
+        x: 1089
+        y: 114
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4651b950491e73d4486f01a682e837cd
+      internalID: -1841527524
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: red_tile_breaking_sprite_sheet_245
+      rect:
+        serializedVersion: 2
+        x: 1089
+        y: 282
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b3db1bf3c6635774c87d47dd942a5ed2
+      internalID: 1983842166
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: red_tile_breaking_sprite_sheet_246
+      rect:
+        serializedVersion: 2
+        x: 1089
+        y: 187
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 30ee3658c08a3bf4f964451c51d1cbed
+      internalID: -62325531
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: red_tile_breaking_sprite_sheet_247
+      rect:
+        serializedVersion: 2
+        x: 1089
+        y: 123
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 40a865d3060a0fa4bb5ec6f84be6dbe3
+      internalID: 540557511
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: red_tile_breaking_sprite_sheet_248
+      rect:
+        serializedVersion: 2
+        x: 1089
+        y: 363
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 74935430c903fa24b9f90bef4258748a
+      internalID: -213728796
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: red_tile_breaking_sprite_sheet_249
+      rect:
+        serializedVersion: 2
+        x: 1089
+        y: 242
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 61a2d3a6912eba448b053808a13b2703
+      internalID: -1994059107
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: red_tile_breaking_sprite_sheet_250
+      rect:
+        serializedVersion: 2
+        x: 1089
+        y: 65
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 75500e9698e9e7343988599347da9296
+      internalID: 45190049
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: red_tile_breaking_sprite_sheet_251
+      rect:
+        serializedVersion: 2
+        x: 1089
+        y: 371
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 765019ae2f15d6a4588fa3572e004f79
+      internalID: 460041746
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: red_tile_breaking_sprite_sheet_252
+      rect:
+        serializedVersion: 2
+        x: 1089
+        y: 193
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9772250201812eb4e8d3fda5bdf70a4b
+      internalID: -1719703704
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: red_tile_breaking_sprite_sheet_253
+      rect:
+        serializedVersion: 2
+        x: 1089
+        y: 50
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0d2cb76d7dc640046a1caa5f898e89d2
+      internalID: -923332479
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: red_tile_breaking_sprite_sheet_254
+      rect:
+        serializedVersion: 2
+        x: 1089
+        y: 202
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 74a60c26914e8474ba5f900d71455ac6
+      internalID: -1050384278
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: red_tile_breaking_sprite_sheet_255
+      rect:
+        serializedVersion: 2
+        x: 1089
+        y: 523
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: db49dd1b0d9f5ee4492d74107cabed7a
+      internalID: 963772138
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: red_tile_breaking_sprite_sheet_256
+      rect:
+        serializedVersion: 2
+        x: 1089
+        y: 156
+        width: 7
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5dff1b3e8c2f8944e822917162173e24
+      internalID: -290581015
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: red_tile_breaking_sprite_sheet_257
+      rect:
+        serializedVersion: 2
+        x: 1090
+        y: 667
+        width: 6
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6fb10a0e9d70d364097cbf0eb3eb3686
+      internalID: 445902292
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: red_tile_breaking_sprite_sheet_258
+      rect:
+        serializedVersion: 2
+        x: 1090
+        y: 340
+        width: 6
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0fcd3ec45b960714b8e7bc5641dbffc7
+      internalID: -1003212970
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: red_tile_breaking_sprite_sheet_259
+      rect:
+        serializedVersion: 2
+        x: 1090
+        y: 547
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3ab6733e719371a4abf79f8b468d3460
+      internalID: -1840324538
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: red_tile_breaking_sprite_sheet_260
+      rect:
+        serializedVersion: 2
+        x: 1090
+        y: 34
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3cc7f42925604e94e93238bc48b6c1b8
+      internalID: 112280551
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: red_tile_breaking_sprite_sheet_261
+      rect:
+        serializedVersion: 2
+        x: 1103
+        y: 334
+        width: 68
+        height: 91
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cb74e07cfa49e584c95439952f9af286
+      internalID: -169187987
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: red_tile_breaking_sprite_sheet_262
+      rect:
+        serializedVersion: 2
+        x: 1116
+        y: 830
+        width: 100
+        height: 140
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9e38f8fd7de5c72429e0826f8f6463a9
+      internalID: -959885424
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: red_tile_breaking_sprite_sheet_263
+      rect:
+        serializedVersion: 2
+        x: 1124
+        y: 449
+        width: 116
+        height: 398
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aa4d23ea038674149899f8993e1dc04d
+      internalID: 1208812004
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: red_tile_breaking_sprite_sheet_264
+      rect:
+        serializedVersion: 2
+        x: 1132
+        y: 510
+        width: 49
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 27616b10db5de8c458c8f56f79f51c12
+      internalID: 1878895393
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: red_tile_breaking_sprite_sheet_265
+      rect:
+        serializedVersion: 2
+        x: 1153
+        y: 0
+        width: 71
+        height: 478
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 73802d4d2e845584496c806c6b0ced78
+      internalID: 402982331
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: red_tile_breaking_sprite_sheet_266
+      rect:
+        serializedVersion: 2
+        x: 1187
+        y: 8
+        width: 5
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2f19196464d7a324aa2bbe224eca3c79
+      internalID: -1060353958
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: red_tile_breaking_sprite_sheet_267
+      rect:
+        serializedVersion: 2
+        x: 1188
+        y: 64
+        width: 4
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 05aac51c18ac9ba4d8251f3366655905
+      internalID: 473017462
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: red_tile_breaking_sprite_sheet_268
+      rect:
+        serializedVersion: 2
+        x: 1232
+        y: 1
+        width: 185
+        height: 766
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5aa0e7a72218cb1439b4b11183b8b20b
+      internalID: -717385636
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: red_tile_breaking_sprite_sheet_269
+      rect:
+        serializedVersion: 2
+        x: 1263
+        y: 766
+        width: 103
+        height: 151
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c32c8154c5b42454fb75098824e4a5a3
+      internalID: 125627425
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: red_tile_breaking_sprite_sheet_270
+      rect:
+        serializedVersion: 2
+        x: 1263
+        y: 862
+        width: 273
+        height: 161
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e4c83273fd6e2424cbb8cb2c1f0b1c0d
+      internalID: 649423204
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: red_tile_breaking_sprite_sheet_271
+      rect:
+        serializedVersion: 2
+        x: 1302
+        y: 431
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 96058d6223cfa1e439ed7aa8f689f2ba
+      internalID: -1346763033
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: red_tile_breaking_sprite_sheet_272
+      rect:
+        serializedVersion: 2
+        x: 1311
+        y: 498
+        width: 25
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 59913dd9b72dd414ea96bf7c1d3c8039
+      internalID: -1252917107
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: red_tile_breaking_sprite_sheet_273
+      rect:
+        serializedVersion: 2
+        x: 1316
+        y: 432
+        width: 4
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4af4ba5110aa9ee4c9943df19e360814
+      internalID: -664513152
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: red_tile_breaking_sprite_sheet_274
+      rect:
+        serializedVersion: 2
+        x: 1331
+        y: 369
+        width: 14
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b4cc543c207ae914ab47cba1cac59f14
+      internalID: 2000492955
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: red_tile_breaking_sprite_sheet_275
+      rect:
+        serializedVersion: 2
+        x: 1336
+        y: 764
+        width: 5
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aba1410810dee14429de9f216c14778f
+      internalID: 560461895
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: red_tile_breaking_sprite_sheet_276
+      rect:
+        serializedVersion: 2
+        x: 1351
+        y: 422
+        width: 18
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c8d7c247e16850a4d88a4b9e4372a70a
+      internalID: 1508706847
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: red_tile_breaking_sprite_sheet_277
+      rect:
+        serializedVersion: 2
+        x: 1351
+        y: 570
+        width: 33
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4d05d015a4d86c643acb663cb7b82559
+      internalID: -417837206
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: red_tile_breaking_sprite_sheet_278
+      rect:
+        serializedVersion: 2
+        x: 1364
+        y: 526
+        width: 21
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8467767cdcca222428c97c6553d810f8
+      internalID: -461362574
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: red_tile_breaking_sprite_sheet_279
+      rect:
+        serializedVersion: 2
+        x: 1389
+        y: 471
+        width: 19
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7e28578b26295504da84fa9e2fc06e2b
+      internalID: 1689951354
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: red_tile_breaking_sprite_sheet_280
+      rect:
+        serializedVersion: 2
+        x: 1391
+        y: 777
+        width: 66
+        height: 89
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 67faaded4e955e048a540c474de3700c
+      internalID: -1989512602
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: red_tile_breaking_sprite_sheet_281
+      rect:
+        serializedVersion: 2
+        x: 1399
+        y: 345
+        width: 17
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5f6e8550563f8614791dfee607934a50
+      internalID: 1015689735
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: red_tile_breaking_sprite_sheet_282
+      rect:
+        serializedVersion: 2
+        x: 1412
+        y: 408
+        width: 20
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: da6c56948b2156944bcbd1b1cd104ec7
+      internalID: 1125284649
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: red_tile_breaking_sprite_sheet_283
+      rect:
+        serializedVersion: 2
+        x: 1414
+        y: 547
+        width: 18
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0ef608d73ea6c7c43b7dc0402fe49278
+      internalID: 1832866678
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: red_tile_breaking_sprite_sheet_284
+      rect:
+        serializedVersion: 2
+        x: 1424
+        y: 1
+        width: 112
+        height: 761
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eccaa5b9bd77a024687ebca931893125
+      internalID: 1085004816
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: red_tile_breaking_sprite_sheet_285
+      rect:
+        serializedVersion: 2
+        x: 1428
+        y: 560
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 948fcb71488f4874b84279c79e5981db
+      internalID: -1331594857
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: red_tile_breaking_sprite_sheet_286
+      rect:
+        serializedVersion: 2
+        x: 1447
+        y: 510
+        width: 49
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dfa6e95eddf1ce2498d3fac02b3bb587
+      internalID: -221942485
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: red_tile_breaking_sprite_sheet_287
+      rect:
+        serializedVersion: 2
+        x: 1453
+        y: 793
+        width: 75
+        height: 154
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f892c1e5f4f4d594988c787845c51587
+      internalID: 1590756677
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: red_tile_breaking_sprite_sheet_288
+      rect:
+        serializedVersion: 2
+        x: 1464
+        y: 369
+        width: 24
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dbbf84c5a3afb724fb708aaa1b08b4e3
+      internalID: -1111916759
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: red_tile_breaking_sprite_sheet_289
+      rect:
+        serializedVersion: 2
+        x: 1485
+        y: 458
+        width: 20
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6926e002c828b89489ebb779c8e8c6a4
+      internalID: 2137866054
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 7673559b7f2c1b3478483af95b39b943
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      red_tile_breaking_sprite_sheet_0: -1266272817
+      red_tile_breaking_sprite_sheet_1: -1016074561
+      red_tile_breaking_sprite_sheet_10: -2005593501
+      red_tile_breaking_sprite_sheet_100: -1823488119
+      red_tile_breaking_sprite_sheet_101: 755521740
+      red_tile_breaking_sprite_sheet_102: 974023435
+      red_tile_breaking_sprite_sheet_103: 1031386830
+      red_tile_breaking_sprite_sheet_104: 663557572
+      red_tile_breaking_sprite_sheet_105: -1915541444
+      red_tile_breaking_sprite_sheet_106: -1341741757
+      red_tile_breaking_sprite_sheet_107: 2113668717
+      red_tile_breaking_sprite_sheet_108: 1537478178
+      red_tile_breaking_sprite_sheet_109: -1282541485
+      red_tile_breaking_sprite_sheet_11: -501416061
+      red_tile_breaking_sprite_sheet_110: 834879570
+      red_tile_breaking_sprite_sheet_111: 2118655962
+      red_tile_breaking_sprite_sheet_112: -1441517608
+      red_tile_breaking_sprite_sheet_113: -663239694
+      red_tile_breaking_sprite_sheet_114: 1595374042
+      red_tile_breaking_sprite_sheet_115: 571737805
+      red_tile_breaking_sprite_sheet_116: 1530403746
+      red_tile_breaking_sprite_sheet_117: 575504082
+      red_tile_breaking_sprite_sheet_118: 1829005141
+      red_tile_breaking_sprite_sheet_119: 2026765152
+      red_tile_breaking_sprite_sheet_12: -1413537466
+      red_tile_breaking_sprite_sheet_120: -1256213097
+      red_tile_breaking_sprite_sheet_121: -627342109
+      red_tile_breaking_sprite_sheet_122: -1924558594
+      red_tile_breaking_sprite_sheet_123: -41591289
+      red_tile_breaking_sprite_sheet_124: -170060675
+      red_tile_breaking_sprite_sheet_125: 1950458896
+      red_tile_breaking_sprite_sheet_126: -1470129767
+      red_tile_breaking_sprite_sheet_127: 264532202
+      red_tile_breaking_sprite_sheet_128: 482430096
+      red_tile_breaking_sprite_sheet_129: -1846244151
+      red_tile_breaking_sprite_sheet_13: 1854315487
+      red_tile_breaking_sprite_sheet_130: 1964135714
+      red_tile_breaking_sprite_sheet_131: 525999821
+      red_tile_breaking_sprite_sheet_132: 1710339694
+      red_tile_breaking_sprite_sheet_133: -359487291
+      red_tile_breaking_sprite_sheet_134: 2104083461
+      red_tile_breaking_sprite_sheet_135: -1761922336
+      red_tile_breaking_sprite_sheet_136: -1313627457
+      red_tile_breaking_sprite_sheet_137: -1996131738
+      red_tile_breaking_sprite_sheet_138: 97875435
+      red_tile_breaking_sprite_sheet_139: 1092906253
+      red_tile_breaking_sprite_sheet_14: 333829697
+      red_tile_breaking_sprite_sheet_140: -937487894
+      red_tile_breaking_sprite_sheet_141: -485024409
+      red_tile_breaking_sprite_sheet_142: 1680740901
+      red_tile_breaking_sprite_sheet_143: -565620923
+      red_tile_breaking_sprite_sheet_144: 938924433
+      red_tile_breaking_sprite_sheet_145: -2003997573
+      red_tile_breaking_sprite_sheet_146: 1696103226
+      red_tile_breaking_sprite_sheet_147: -865032937
+      red_tile_breaking_sprite_sheet_148: -562373754
+      red_tile_breaking_sprite_sheet_149: 1164832157
+      red_tile_breaking_sprite_sheet_15: -1021085081
+      red_tile_breaking_sprite_sheet_150: 1066402086
+      red_tile_breaking_sprite_sheet_151: -1256940603
+      red_tile_breaking_sprite_sheet_152: 1869279578
+      red_tile_breaking_sprite_sheet_153: 1037115488
+      red_tile_breaking_sprite_sheet_154: -2038877711
+      red_tile_breaking_sprite_sheet_155: -817484343
+      red_tile_breaking_sprite_sheet_156: 883495054
+      red_tile_breaking_sprite_sheet_157: -134627285
+      red_tile_breaking_sprite_sheet_158: 360982372
+      red_tile_breaking_sprite_sheet_159: 1966157809
+      red_tile_breaking_sprite_sheet_16: 1593653606
+      red_tile_breaking_sprite_sheet_160: 509858963
+      red_tile_breaking_sprite_sheet_161: 1059321488
+      red_tile_breaking_sprite_sheet_162: -1644186854
+      red_tile_breaking_sprite_sheet_163: -1733739007
+      red_tile_breaking_sprite_sheet_164: -1944013532
+      red_tile_breaking_sprite_sheet_165: -280004191
+      red_tile_breaking_sprite_sheet_166: 1313103079
+      red_tile_breaking_sprite_sheet_167: 1461351329
+      red_tile_breaking_sprite_sheet_168: 1546065296
+      red_tile_breaking_sprite_sheet_169: 1777877
+      red_tile_breaking_sprite_sheet_17: 884462127
+      red_tile_breaking_sprite_sheet_170: 91250201
+      red_tile_breaking_sprite_sheet_171: 1583716842
+      red_tile_breaking_sprite_sheet_172: 217687206
+      red_tile_breaking_sprite_sheet_173: 1422772731
+      red_tile_breaking_sprite_sheet_174: -1176484295
+      red_tile_breaking_sprite_sheet_175: -1560517178
+      red_tile_breaking_sprite_sheet_176: -1419701035
+      red_tile_breaking_sprite_sheet_177: -1968408843
+      red_tile_breaking_sprite_sheet_178: -1489965628
+      red_tile_breaking_sprite_sheet_179: -1215103109
+      red_tile_breaking_sprite_sheet_18: -27629616
+      red_tile_breaking_sprite_sheet_180: 662286835
+      red_tile_breaking_sprite_sheet_181: -1612782163
+      red_tile_breaking_sprite_sheet_182: -133258310
+      red_tile_breaking_sprite_sheet_183: -1066449359
+      red_tile_breaking_sprite_sheet_184: -1129690718
+      red_tile_breaking_sprite_sheet_185: 44371425
+      red_tile_breaking_sprite_sheet_186: -299870500
+      red_tile_breaking_sprite_sheet_187: 506585213
+      red_tile_breaking_sprite_sheet_188: 1705251881
+      red_tile_breaking_sprite_sheet_189: -1080661995
+      red_tile_breaking_sprite_sheet_19: 642401286
+      red_tile_breaking_sprite_sheet_190: 359666885
+      red_tile_breaking_sprite_sheet_191: -895850565
+      red_tile_breaking_sprite_sheet_192: 2147190861
+      red_tile_breaking_sprite_sheet_193: -807749429
+      red_tile_breaking_sprite_sheet_194: -1549911756
+      red_tile_breaking_sprite_sheet_195: 1367390705
+      red_tile_breaking_sprite_sheet_196: -259318579
+      red_tile_breaking_sprite_sheet_197: 1260676379
+      red_tile_breaking_sprite_sheet_198: -1353502255
+      red_tile_breaking_sprite_sheet_199: 780941375
+      red_tile_breaking_sprite_sheet_2: 662687589
+      red_tile_breaking_sprite_sheet_20: -833872350
+      red_tile_breaking_sprite_sheet_200: 401327701
+      red_tile_breaking_sprite_sheet_201: -1524758896
+      red_tile_breaking_sprite_sheet_202: 1618097071
+      red_tile_breaking_sprite_sheet_203: -1579922184
+      red_tile_breaking_sprite_sheet_204: 2120758570
+      red_tile_breaking_sprite_sheet_205: -2146260888
+      red_tile_breaking_sprite_sheet_206: -23989053
+      red_tile_breaking_sprite_sheet_207: -918497709
+      red_tile_breaking_sprite_sheet_208: 453591770
+      red_tile_breaking_sprite_sheet_209: 416844545
+      red_tile_breaking_sprite_sheet_21: 973593986
+      red_tile_breaking_sprite_sheet_210: 555511391
+      red_tile_breaking_sprite_sheet_211: -423853727
+      red_tile_breaking_sprite_sheet_212: 473899796
+      red_tile_breaking_sprite_sheet_213: 327894228
+      red_tile_breaking_sprite_sheet_214: 1727298361
+      red_tile_breaking_sprite_sheet_215: 1515604097
+      red_tile_breaking_sprite_sheet_216: 2029424792
+      red_tile_breaking_sprite_sheet_217: -1221492911
+      red_tile_breaking_sprite_sheet_218: -1983133004
+      red_tile_breaking_sprite_sheet_219: 304361682
+      red_tile_breaking_sprite_sheet_22: -521659162
+      red_tile_breaking_sprite_sheet_220: 975814050
+      red_tile_breaking_sprite_sheet_221: -779664258
+      red_tile_breaking_sprite_sheet_222: -1859822730
+      red_tile_breaking_sprite_sheet_223: -2084243075
+      red_tile_breaking_sprite_sheet_224: -771800765
+      red_tile_breaking_sprite_sheet_225: -1363964477
+      red_tile_breaking_sprite_sheet_226: -1618032173
+      red_tile_breaking_sprite_sheet_227: 466204611
+      red_tile_breaking_sprite_sheet_228: 1025295480
+      red_tile_breaking_sprite_sheet_229: 1534340116
+      red_tile_breaking_sprite_sheet_23: -531078201
+      red_tile_breaking_sprite_sheet_230: 23615504
+      red_tile_breaking_sprite_sheet_231: 2122101514
+      red_tile_breaking_sprite_sheet_232: -2064442846
+      red_tile_breaking_sprite_sheet_233: 1884351176
+      red_tile_breaking_sprite_sheet_234: -1211680398
+      red_tile_breaking_sprite_sheet_235: 1024400624
+      red_tile_breaking_sprite_sheet_236: -1991742453
+      red_tile_breaking_sprite_sheet_237: -1896452399
+      red_tile_breaking_sprite_sheet_238: -972684127
+      red_tile_breaking_sprite_sheet_239: 1239379419
+      red_tile_breaking_sprite_sheet_24: 421009451
+      red_tile_breaking_sprite_sheet_240: 294728360
+      red_tile_breaking_sprite_sheet_241: 599399308
+      red_tile_breaking_sprite_sheet_242: -1104803488
+      red_tile_breaking_sprite_sheet_243: -687216577
+      red_tile_breaking_sprite_sheet_244: -1841527524
+      red_tile_breaking_sprite_sheet_245: 1983842166
+      red_tile_breaking_sprite_sheet_246: -62325531
+      red_tile_breaking_sprite_sheet_247: 540557511
+      red_tile_breaking_sprite_sheet_248: -213728796
+      red_tile_breaking_sprite_sheet_249: -1994059107
+      red_tile_breaking_sprite_sheet_25: 1286057454
+      red_tile_breaking_sprite_sheet_250: 45190049
+      red_tile_breaking_sprite_sheet_251: 460041746
+      red_tile_breaking_sprite_sheet_252: -1719703704
+      red_tile_breaking_sprite_sheet_253: -923332479
+      red_tile_breaking_sprite_sheet_254: -1050384278
+      red_tile_breaking_sprite_sheet_255: 963772138
+      red_tile_breaking_sprite_sheet_256: -290581015
+      red_tile_breaking_sprite_sheet_257: 445902292
+      red_tile_breaking_sprite_sheet_258: -1003212970
+      red_tile_breaking_sprite_sheet_259: -1840324538
+      red_tile_breaking_sprite_sheet_26: -839365394
+      red_tile_breaking_sprite_sheet_260: 112280551
+      red_tile_breaking_sprite_sheet_261: -169187987
+      red_tile_breaking_sprite_sheet_262: -959885424
+      red_tile_breaking_sprite_sheet_263: 1208812004
+      red_tile_breaking_sprite_sheet_264: 1878895393
+      red_tile_breaking_sprite_sheet_265: 402982331
+      red_tile_breaking_sprite_sheet_266: -1060353958
+      red_tile_breaking_sprite_sheet_267: 473017462
+      red_tile_breaking_sprite_sheet_268: -717385636
+      red_tile_breaking_sprite_sheet_269: 125627425
+      red_tile_breaking_sprite_sheet_27: 793148020
+      red_tile_breaking_sprite_sheet_270: 649423204
+      red_tile_breaking_sprite_sheet_271: -1346763033
+      red_tile_breaking_sprite_sheet_272: -1252917107
+      red_tile_breaking_sprite_sheet_273: -664513152
+      red_tile_breaking_sprite_sheet_274: 2000492955
+      red_tile_breaking_sprite_sheet_275: 560461895
+      red_tile_breaking_sprite_sheet_276: 1508706847
+      red_tile_breaking_sprite_sheet_277: -417837206
+      red_tile_breaking_sprite_sheet_278: -461362574
+      red_tile_breaking_sprite_sheet_279: 1689951354
+      red_tile_breaking_sprite_sheet_28: 1140374073
+      red_tile_breaking_sprite_sheet_280: -1989512602
+      red_tile_breaking_sprite_sheet_281: 1015689735
+      red_tile_breaking_sprite_sheet_282: 1125284649
+      red_tile_breaking_sprite_sheet_283: 1832866678
+      red_tile_breaking_sprite_sheet_284: 1085004816
+      red_tile_breaking_sprite_sheet_285: -1331594857
+      red_tile_breaking_sprite_sheet_286: -221942485
+      red_tile_breaking_sprite_sheet_287: 1590756677
+      red_tile_breaking_sprite_sheet_288: -1111916759
+      red_tile_breaking_sprite_sheet_289: 2137866054
+      red_tile_breaking_sprite_sheet_29: -959712699
+      red_tile_breaking_sprite_sheet_3: 1639829366
+      red_tile_breaking_sprite_sheet_30: -710668538
+      red_tile_breaking_sprite_sheet_31: 940345701
+      red_tile_breaking_sprite_sheet_32: -2041511855
+      red_tile_breaking_sprite_sheet_33: -1278092125
+      red_tile_breaking_sprite_sheet_34: -1730121526
+      red_tile_breaking_sprite_sheet_35: 1389037716
+      red_tile_breaking_sprite_sheet_36: -1327199893
+      red_tile_breaking_sprite_sheet_37: 1627029228
+      red_tile_breaking_sprite_sheet_38: 1319914897
+      red_tile_breaking_sprite_sheet_39: -1052916116
+      red_tile_breaking_sprite_sheet_4: -1645977051
+      red_tile_breaking_sprite_sheet_40: -130322488
+      red_tile_breaking_sprite_sheet_41: 1032748354
+      red_tile_breaking_sprite_sheet_42: -1184965867
+      red_tile_breaking_sprite_sheet_43: -1972356509
+      red_tile_breaking_sprite_sheet_44: -1944017451
+      red_tile_breaking_sprite_sheet_45: -128774556
+      red_tile_breaking_sprite_sheet_46: 743868181
+      red_tile_breaking_sprite_sheet_47: -988801247
+      red_tile_breaking_sprite_sheet_48: 1404079404
+      red_tile_breaking_sprite_sheet_49: -2093408274
+      red_tile_breaking_sprite_sheet_5: -1552701370
+      red_tile_breaking_sprite_sheet_50: 1207054886
+      red_tile_breaking_sprite_sheet_51: 1631846873
+      red_tile_breaking_sprite_sheet_52: 1405542147
+      red_tile_breaking_sprite_sheet_53: 1800710550
+      red_tile_breaking_sprite_sheet_54: -648648629
+      red_tile_breaking_sprite_sheet_55: 457728109
+      red_tile_breaking_sprite_sheet_56: 378352469
+      red_tile_breaking_sprite_sheet_57: 547912244
+      red_tile_breaking_sprite_sheet_58: 1357112483
+      red_tile_breaking_sprite_sheet_59: -75212933
+      red_tile_breaking_sprite_sheet_6: 2003697563
+      red_tile_breaking_sprite_sheet_60: 1155963849
+      red_tile_breaking_sprite_sheet_61: -616820874
+      red_tile_breaking_sprite_sheet_62: 1687957507
+      red_tile_breaking_sprite_sheet_63: 181143287
+      red_tile_breaking_sprite_sheet_64: -1061228005
+      red_tile_breaking_sprite_sheet_65: -444909348
+      red_tile_breaking_sprite_sheet_66: 1864931119
+      red_tile_breaking_sprite_sheet_67: -168213188
+      red_tile_breaking_sprite_sheet_68: 1070014299
+      red_tile_breaking_sprite_sheet_69: -1779750409
+      red_tile_breaking_sprite_sheet_7: -557329137
+      red_tile_breaking_sprite_sheet_70: -29229719
+      red_tile_breaking_sprite_sheet_71: 2126636725
+      red_tile_breaking_sprite_sheet_72: -550528416
+      red_tile_breaking_sprite_sheet_73: -684628334
+      red_tile_breaking_sprite_sheet_74: 1926446991
+      red_tile_breaking_sprite_sheet_75: 652801814
+      red_tile_breaking_sprite_sheet_76: 971015498
+      red_tile_breaking_sprite_sheet_77: -1650431951
+      red_tile_breaking_sprite_sheet_78: -7070219
+      red_tile_breaking_sprite_sheet_79: 1052523182
+      red_tile_breaking_sprite_sheet_8: -454774702
+      red_tile_breaking_sprite_sheet_80: 561688277
+      red_tile_breaking_sprite_sheet_81: -1927124164
+      red_tile_breaking_sprite_sheet_82: -1782989168
+      red_tile_breaking_sprite_sheet_83: 1038912855
+      red_tile_breaking_sprite_sheet_84: 286249459
+      red_tile_breaking_sprite_sheet_85: -1073308752
+      red_tile_breaking_sprite_sheet_86: -682992249
+      red_tile_breaking_sprite_sheet_87: -481719073
+      red_tile_breaking_sprite_sheet_88: 1599272217
+      red_tile_breaking_sprite_sheet_89: 616442059
+      red_tile_breaking_sprite_sheet_9: 417985785
+      red_tile_breaking_sprite_sheet_90: -902479246
+      red_tile_breaking_sprite_sheet_91: -861884335
+      red_tile_breaking_sprite_sheet_92: -2083061693
+      red_tile_breaking_sprite_sheet_93: -1670189127
+      red_tile_breaking_sprite_sheet_94: 1652346360
+      red_tile_breaking_sprite_sheet_95: 954328896
+      red_tile_breaking_sprite_sheet_96: 310308475
+      red_tile_breaking_sprite_sheet_97: 1781610530
+      red_tile_breaking_sprite_sheet_98: 185284148
+      red_tile_breaking_sprite_sheet_99: -1140970308
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

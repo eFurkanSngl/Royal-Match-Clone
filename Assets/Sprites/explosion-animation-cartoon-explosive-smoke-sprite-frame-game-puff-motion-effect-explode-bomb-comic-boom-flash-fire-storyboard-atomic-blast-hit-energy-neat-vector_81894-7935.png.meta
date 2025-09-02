@@ -1,0 +1,514 @@
+fileFormatVersion: 2
+guid: d4b466d348c0809488905a4727714252
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 0
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: explosion-animation-cartoon-explosive-smoke-sprite-frame-game-puff-motion-effect-explode-bomb-comic-boom-flash-fire-storyboard-atomic-blast-hit-energy-neat-vector_81894-7935_0
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 209
+        width: 44
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 364da753c6ee4c04e97b2bf7f4e34638
+      internalID: -606820366
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: explosion-animation-cartoon-explosive-smoke-sprite-frame-game-puff-motion-effect-explode-bomb-comic-boom-flash-fire-storyboard-atomic-blast-hit-energy-neat-vector_81894-7935_1
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 203
+        width: 71
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2904d0533de9009479f46c10c1632022
+      internalID: 846260182
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: explosion-animation-cartoon-explosive-smoke-sprite-frame-game-puff-motion-effect-explode-bomb-comic-boom-flash-fire-storyboard-atomic-blast-hit-energy-neat-vector_81894-7935_2
+      rect:
+        serializedVersion: 2
+        x: 343
+        y: 185
+        width: 104
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d4135f73d72ebda488b627d0f6e0dcee
+      internalID: -416433805
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: explosion-animation-cartoon-explosive-smoke-sprite-frame-game-puff-motion-effect-explode-bomb-comic-boom-flash-fire-storyboard-atomic-blast-hit-energy-neat-vector_81894-7935_3
+      rect:
+        serializedVersion: 2
+        x: 443
+        y: 236
+        width: 12
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 89cb5026f206bc244a66204a4a17c9fd
+      internalID: -586300057
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: explosion-animation-cartoon-explosive-smoke-sprite-frame-game-puff-motion-effect-explode-bomb-comic-boom-flash-fire-storyboard-atomic-blast-hit-energy-neat-vector_81894-7935_4
+      rect:
+        serializedVersion: 2
+        x: 477
+        y: 181
+        width: 120
+        height: 102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b7faa9b4158ac8c4f83d66c24d660685
+      internalID: 1092384913
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: explosion-animation-cartoon-explosive-smoke-sprite-frame-game-puff-motion-effect-explode-bomb-comic-boom-flash-fire-storyboard-atomic-blast-hit-energy-neat-vector_81894-7935_5
+      rect:
+        serializedVersion: 2
+        x: 26
+        y: 47
+        width: 136
+        height: 107
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 52fca728d6a17da42a61a81ca62100ec
+      internalID: 1390636108
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: explosion-animation-cartoon-explosive-smoke-sprite-frame-game-puff-motion-effect-explode-bomb-comic-boom-flash-fire-storyboard-atomic-blast-hit-energy-neat-vector_81894-7935_6
+      rect:
+        serializedVersion: 2
+        x: 185
+        y: 34
+        width: 126
+        height: 123
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bd17eb9266f838f4abfc0d9641014f1c
+      internalID: -431843193
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: explosion-animation-cartoon-explosive-smoke-sprite-frame-game-puff-motion-effect-explode-bomb-comic-boom-flash-fire-storyboard-atomic-blast-hit-energy-neat-vector_81894-7935_7
+      rect:
+        serializedVersion: 2
+        x: 333
+        y: 30
+        width: 138
+        height: 129
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5619a2bbc50dfdf4f9d6a22a2c07b4b3
+      internalID: -982445108
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: explosion-animation-cartoon-explosive-smoke-sprite-frame-game-puff-motion-effect-explode-bomb-comic-boom-flash-fire-storyboard-atomic-blast-hit-energy-neat-vector_81894-7935_8
+      rect:
+        serializedVersion: 2
+        x: 499
+        y: 108
+        width: 27
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0f0cc764a0df114499ad9e432b295d79
+      internalID: 651819869
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: explosion-animation-cartoon-explosive-smoke-sprite-frame-game-puff-motion-effect-explode-bomb-comic-boom-flash-fire-storyboard-atomic-blast-hit-energy-neat-vector_81894-7935_9
+      rect:
+        serializedVersion: 2
+        x: 524
+        y: 137
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4d70da5c4e6bc77429aafdc8ec743638
+      internalID: 927748676
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: explosion-animation-cartoon-explosive-smoke-sprite-frame-game-puff-motion-effect-explode-bomb-comic-boom-flash-fire-storyboard-atomic-blast-hit-energy-neat-vector_81894-7935_10
+      rect:
+        serializedVersion: 2
+        x: 540
+        y: 129
+        width: 33
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5e024d3f230f25d4bbfc278e09a408e7
+      internalID: -729026100
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: explosion-animation-cartoon-explosive-smoke-sprite-frame-game-puff-motion-effect-explode-bomb-comic-boom-flash-fire-storyboard-atomic-blast-hit-energy-neat-vector_81894-7935_11
+      rect:
+        serializedVersion: 2
+        x: 491
+        y: 57
+        width: 22
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e9e3e808d35deaf48850131366ac49d1
+      internalID: -925922963
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: explosion-animation-cartoon-explosive-smoke-sprite-frame-game-puff-motion-effect-explode-bomb-comic-boom-flash-fire-storyboard-atomic-blast-hit-energy-neat-vector_81894-7935_12
+      rect:
+        serializedVersion: 2
+        x: 579
+        y: 98
+        width: 17
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5b56b50cb19409f4fb97b1386a1bcc14
+      internalID: 1977062239
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: explosion-animation-cartoon-explosive-smoke-sprite-frame-game-puff-motion-effect-explode-bomb-comic-boom-flash-fire-storyboard-atomic-blast-hit-energy-neat-vector_81894-7935_13
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 46
+        width: 36
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 287a89b9cb3bcf84ba194825ff5d0fa0
+      internalID: -1466074370
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: explosion-animation-cartoon-explosive-smoke-sprite-frame-game-puff-motion-effect-explode-bomb-comic-boom-flash-fire-storyboard-atomic-blast-hit-energy-neat-vector_81894-7935_14
+      rect:
+        serializedVersion: 2
+        x: 514
+        y: 46
+        width: 21
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bfa243ecf73e68741a080fd502603ba7
+      internalID: -388087347
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: explosion-animation-cartoon-explosive-smoke-sprite-frame-game-puff-motion-effect-explode-bomb-comic-boom-flash-fire-storyboard-atomic-blast-hit-energy-neat-vector_81894-7935_15
+      rect:
+        serializedVersion: 2
+        x: 570
+        y: 58
+        width: 32
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c029d3c91f45f49449f96659c6bdc3c5
+      internalID: 1673564693
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: explosion-animation-cartoon-explosive-smoke-sprite-frame-game-puff-motion-effect-explode-bomb-comic-boom-flash-fire-storyboard-atomic-blast-hit-energy-neat-vector_81894-7935_16
+      rect:
+        serializedVersion: 2
+        x: 537
+        y: 41
+        width: 30
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9bbeb4d559d4ebc40a950ac663643333
+      internalID: 2027420390
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: a9c2e3cdee1f1ea4194542fe033ec3a2
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      explosion-animation-cartoon-explosive-smoke-sprite-frame-game-puff-motion-effect-explode-bomb-comic-boom-flash-fire-storyboard-atomic-blast-hit-energy-neat-vector_81894-7935_0: -606820366
+      explosion-animation-cartoon-explosive-smoke-sprite-frame-game-puff-motion-effect-explode-bomb-comic-boom-flash-fire-storyboard-atomic-blast-hit-energy-neat-vector_81894-7935_1: 846260182
+      explosion-animation-cartoon-explosive-smoke-sprite-frame-game-puff-motion-effect-explode-bomb-comic-boom-flash-fire-storyboard-atomic-blast-hit-energy-neat-vector_81894-7935_10: -729026100
+      explosion-animation-cartoon-explosive-smoke-sprite-frame-game-puff-motion-effect-explode-bomb-comic-boom-flash-fire-storyboard-atomic-blast-hit-energy-neat-vector_81894-7935_11: -925922963
+      explosion-animation-cartoon-explosive-smoke-sprite-frame-game-puff-motion-effect-explode-bomb-comic-boom-flash-fire-storyboard-atomic-blast-hit-energy-neat-vector_81894-7935_12: 1977062239
+      explosion-animation-cartoon-explosive-smoke-sprite-frame-game-puff-motion-effect-explode-bomb-comic-boom-flash-fire-storyboard-atomic-blast-hit-energy-neat-vector_81894-7935_13: -1466074370
+      explosion-animation-cartoon-explosive-smoke-sprite-frame-game-puff-motion-effect-explode-bomb-comic-boom-flash-fire-storyboard-atomic-blast-hit-energy-neat-vector_81894-7935_14: -388087347
+      explosion-animation-cartoon-explosive-smoke-sprite-frame-game-puff-motion-effect-explode-bomb-comic-boom-flash-fire-storyboard-atomic-blast-hit-energy-neat-vector_81894-7935_15: 1673564693
+      explosion-animation-cartoon-explosive-smoke-sprite-frame-game-puff-motion-effect-explode-bomb-comic-boom-flash-fire-storyboard-atomic-blast-hit-energy-neat-vector_81894-7935_16: 2027420390
+      explosion-animation-cartoon-explosive-smoke-sprite-frame-game-puff-motion-effect-explode-bomb-comic-boom-flash-fire-storyboard-atomic-blast-hit-energy-neat-vector_81894-7935_2: -416433805
+      explosion-animation-cartoon-explosive-smoke-sprite-frame-game-puff-motion-effect-explode-bomb-comic-boom-flash-fire-storyboard-atomic-blast-hit-energy-neat-vector_81894-7935_3: -586300057
+      explosion-animation-cartoon-explosive-smoke-sprite-frame-game-puff-motion-effect-explode-bomb-comic-boom-flash-fire-storyboard-atomic-blast-hit-energy-neat-vector_81894-7935_4: 1092384913
+      explosion-animation-cartoon-explosive-smoke-sprite-frame-game-puff-motion-effect-explode-bomb-comic-boom-flash-fire-storyboard-atomic-blast-hit-energy-neat-vector_81894-7935_5: 1390636108
+      explosion-animation-cartoon-explosive-smoke-sprite-frame-game-puff-motion-effect-explode-bomb-comic-boom-flash-fire-storyboard-atomic-blast-hit-energy-neat-vector_81894-7935_6: -431843193
+      explosion-animation-cartoon-explosive-smoke-sprite-frame-game-puff-motion-effect-explode-bomb-comic-boom-flash-fire-storyboard-atomic-blast-hit-energy-neat-vector_81894-7935_7: -982445108
+      explosion-animation-cartoon-explosive-smoke-sprite-frame-game-puff-motion-effect-explode-bomb-comic-boom-flash-fire-storyboard-atomic-blast-hit-energy-neat-vector_81894-7935_8: 651819869
+      explosion-animation-cartoon-explosive-smoke-sprite-frame-game-puff-motion-effect-explode-bomb-comic-boom-flash-fire-storyboard-atomic-blast-hit-energy-neat-vector_81894-7935_9: 927748676
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
