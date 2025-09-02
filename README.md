@@ -1,4 +1,5 @@
 [Movie_027.webm](https://github.com/user-attachments/assets/acbbc330-8d3c-4be7-a275-f085ade12c78)
+
 Bu proje, Royal Match benzeri bir Match-3 oyun prototipidir. Amacım sadece core mekanikleri değil, aynı zamanda temiz kod, mimari tasarım ve game feel odaklı bir yapı kurmaktı.
 
 🔑 Özellikler
